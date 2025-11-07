@@ -14,7 +14,8 @@ sudo pip install doi2bib
 
 ## Create Publication List and Get all citations
 ```
-echo "<publication_name> , <DOI>" > publication_list.txt
+echo "paper1 , <DOI>" >> publication_list.txt
+echo "paper2 , <DOI>" >> publication_list.txt
 python3 generate_bib.py
 ```
 
