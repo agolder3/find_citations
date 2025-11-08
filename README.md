@@ -23,3 +23,8 @@ python3 generate_bib.py
 ```
 python3 citations_by_author.py <author_name> > <author_name.txt>
 ```
+
+## Example:
+
+<img width="1879" height="561" alt="image" src="https://github.com/user-attachments/assets/46156928-7eab-46e4-bd69-0786c09bc5dc" />
+
